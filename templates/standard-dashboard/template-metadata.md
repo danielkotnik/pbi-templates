@@ -7,26 +7,26 @@ Fill this in after exporting the .pbit file.
 | Field | Value |
 |-------|-------|
 | Template file | `TEMPLATE_Standard-Dashboard.pbit` |
-| Created by | |
-| Created date | |
-| Last updated | |
-| Power BI Desktop version | |
+| Created by |'danielkotnik' |
+| Created date |'7-1-2026' |
+| Last updated |'7-1-2026' |
+| Power BI Desktop version |'2.155.756.0 64-bit (June 2026)' |
 | Based on dashboard | (name of source .pbix, if applicable) |
 
 ## What's Included
 
 | Element | Included? | Notes |
 |---------|-----------|-------|
-| Scripps lighthouse logo | | |
-| Primary/secondary headers | | |
-| Data Through date placeholder | | |
-| Last Refreshed date placeholder | | |
-| Support mailto link | | |
-| RESET FILTERS button | | |
-| User Reference tab | | |
-| Version Notes tab | | |
-| Scripps blue theme | | |
-| Default bookmarks set | | |
+| Scripps lighthouse logo |'YES' | |
+| Primary/secondary headers | 'YES'| |
+| Data Through date placeholder |'YES' | |
+| Last Refreshed date placeholder |'YES' | |
+| Support mailto link |'YES' | |
+| RESET FILTERS button |'YES' | |
+| User Reference tab | 'YES'| |
+| Version Notes tab |'YES' | |
+| Scripps blue theme |'YES' | |
+| Default bookmarks set |'YES' | |
 
 ## Data Sources Pre-Configured
 
